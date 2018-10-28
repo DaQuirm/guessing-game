@@ -1,7 +1,5 @@
 # guessing-game
 
-## Ridiculously over-engineered guessing puzzle game to tryout various application typing approaches
-
 ### Available flavors (checkout the respective commit):
 
 You can just follow the commits to see how the pattern/approach "evolves"
